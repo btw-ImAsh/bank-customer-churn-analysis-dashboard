@@ -36,7 +36,7 @@ The project typically uses a structured dataset with columns like:
 
 ## Visuals
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Dashboard](https://github.com/user-attachments/assets/2c6df018-33d4-4272-8d4f-a00271840eee)
 
 
 ## Outcomes
