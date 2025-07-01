@@ -3,6 +3,10 @@
 
 The Bank Customer Churn Analysis Dashboard is a data-driven project designed to help financial institutions understand why customers leave (churn) and identify patterns that can help reduce churn. This dashboard leverages historical customer data to visualize key indicators, trends, and predictions related to customer retention.
 
+##Poster
+
+![poster](https://github.com/user-attachments/assets/2f1003ef-00b8-4521-b492-4ae0d959d112)
+
 ## Data
 
 The project typically uses a structured dataset with columns like:
